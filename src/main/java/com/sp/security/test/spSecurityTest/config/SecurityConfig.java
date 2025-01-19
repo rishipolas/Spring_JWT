@@ -100,4 +100,9 @@ public class SecurityConfig {
         return new BCryptPasswordEncoder();
     }
 
+
+    //init JWT go to google type jwt GitHub maven go to below repository
+    //https://github.com/jwtk/jjwt
+
+
 }
